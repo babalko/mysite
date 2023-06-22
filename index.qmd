@@ -1,11 +1,7 @@
 ---
-title: "mysite"
+title: "Barb Balko"
 ---
 
-This is a Quarto website.
+This is a sample website for a Quarto lesson.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
